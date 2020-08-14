@@ -1,4 +1,4 @@
-# blast-to-bed
+# convert-blast-to-bed
 Convert the output of BLAST to a BED file format that's suitable for uploading to JBrowse.
 
 In many types of bioinformatic analyses, (primer design, devloping gene models, etc.) it can be helpful to view BLAST alignments in a genome browser like [JBrowse](https://jbrowse.org/). This script will convert the results of any BLAST search into a simple BED file that can be easily uploaded to JBrowse, allowing BLAST alignments to be displayed alongside genome sequence.
